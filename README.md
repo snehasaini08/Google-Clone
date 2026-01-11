@@ -13,9 +13,6 @@ This project is created to practice front-end development concepts such as layou
 - HTML5
 - CSS3
 
-## 📸 Screenshot
-![Google Clone Screenshot](google.png)
-
 ## 📂 Project Structure
 google-clone/
 │── index.html
