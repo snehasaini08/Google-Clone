@@ -1,4 +1,4 @@
-# 🌐 Google Clone 
+# 🌐 Google HomePage Clone 
 
 A simple and clean **Google Homepage Clone** built using **HTML and CSS**.  
 This project is created to practice front-end development concepts such as layout, styling, and UI design.
